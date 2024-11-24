@@ -8,11 +8,9 @@ I believe in bettering myself every day, and my certifications are testament to 
 
 1. **IBM Cybersecurity Analyst Specialization**
     - Date of completion: March 2022
-    - Home Lab Project: [IBM CyberShield](https://github.com/username/IBM_CyberShield)
 
 2. **Google IT Support Certification**
     - Date of completion: March 2022
-    - Home Lab Project: [Google-IT-Resources](https://github.com/username/Google-IT-Resources)
 
 3. **CompTIA A+ Certification**
     - Planned completion: January 2023
@@ -23,8 +21,8 @@ I believe in bettering myself every day, and my certifications are testament to 
     - Home Lab Project: [NetworkNavigator](https://github.com/username/NetworkNavigator)
 
 5. **Linux Essentials, LPI (Linux Professional Institute)**
-    - Planned completion: July 2023
-    - Home Lab Project: [PenguinPotentials](https://github.com/username/PenguinPotentials)
+    - Date of completion: July 2023
+
 
 ## Technical Skills 
 
